@@ -1,4 +1,4 @@
-# Blockchain-Based-Preferential-Voting-System-with-Dynamic-Re-Voting
+# Blockchain Based Preferential Voting System with Dynamic Re-Voting
 
 ## Abstract
 In an era where trust in electoral systems is crucial, traditional voting methods often struggle to ensure fairness, transparency, and efficiency. Ranked choice voting (RCV) addresses some of these issues by allowing voters to express preferences beyond a simple binary choice, thereby ensuring that the elected candidate has broader support. However, RCV is not without its challenges, including potential vote manipulation and inefficient tallying processes.
